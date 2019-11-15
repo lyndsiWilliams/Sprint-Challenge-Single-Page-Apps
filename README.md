@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing creates a lot smoother webpage by routing with JavaScript withing the page. 
 
 ## Project Set Up
 
